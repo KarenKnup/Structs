@@ -13,3 +13,5 @@ main 6 - Eleição. <br>
 main 7 - Histórico de um aluno. <br>
 main 8 - Posição do entrevistado mais jovem de certo gênero. <br>
 main 9 - Pesquisa com filtros. <br>
+main 10 - Considere a existência de um vetor V1 de inteiros, contendo quant elementos. Implementar uma função que, dado o
+vetor V1, preencha um vetor V2, do qual cada posição consistirá em um struct com os seguintes campos: valor, ocorrências e posição
