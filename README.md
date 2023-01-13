@@ -16,4 +16,5 @@ main 9 - Pesquisa com filtros. <br>
 main 10 - Considere a existência de um vetor V1 de inteiros, contendo quant elementos. Implementar uma função que, dado o
 vetor V1, preencha um vetor V2, do qual cada posição consistirá em um struct com os seguintes campos: valor, ocorrências e posição<br>
 main 11 - Dado um gênero, desloque todos os funcionários deste gênero para o início do vetor (e, consequentemente, os funcionários do outro gênero ficarão ao final do conjunto).<br>
-main 12 - Faça um programa que capture os registros de consumo da frota de uma empresa com: o nº identificador do carro, o mês, a quantidade de litros consumidos pelo carro naquele mês, exibindo o quantidade total de litros gasto por mês pela empresa.
+main 12 - Faça um programa que capture os registros de consumo da frota de uma empresa com: o nº identificador do carro, o mês, a quantidade de litros consumidos pelo carro naquele mês, exibindo o quantidade total de litros gasto por mês pela empresa. <br>
+main 13 - Considere a existência do tipo TAluno contendo as seguintes informações sobre um aluno: nome, nota na AV1, nota na AV2, média e situação.
