@@ -1,5 +1,12 @@
 <div align="center">
-<h1>Estruturas (STRUCTS)</h1><br><br> </div>
+<h1>Estruturas (STRUCTS)</h1>
+
+<h3>Sobre / About</h3>
+
+`Structs são tipos de dados personalizados que agrupam variáveis ​​de diferentes tipos, úteis para organizar dados relacionados.`
+
+`Structs are custom data types that group variables of different types, useful for organizing related data.`
+</div>
 
 Arquivo | Conteúdo
 --------|-----------
